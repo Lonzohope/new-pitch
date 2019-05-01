@@ -23,7 +23,7 @@ This is an application created using python that allows users to use one minute 
 * Load gitHub on your browser.
 * Search for mainamurage/triangle-tracker repository.
 * Fork the data onto your own personal repository.
-* To access the live website, click on this url:https://github.com/Lonzohope/project-pitch
+* To access the live website, click on this url:
 ## Known Bugs
 
 No known bugs
